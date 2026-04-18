@@ -35,7 +35,7 @@ The amplifier uses the LM386 IC powered by a 9V supply. The design includes:
 
 The circuit was simulated in Proteus to verify amplification behavior and stability before hardware implementation.
 
-![Proteus Simulation](simulation.jpg)
+![Proteus Simulation](proteus-simulation.jpeg)
 
 ---
 
@@ -50,7 +50,7 @@ The amplifier was implemented on a breadboard to validate real-time performance.
 
 The waveform shows the amplified output signal compared to the input, confirming effective voltage gain with minimal distortion.
 
-![Waveform](waveform.jpeg)
+![Waveform](output-waveform.jpeg)
 
 ## PCB Design
 
